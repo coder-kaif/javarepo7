@@ -19,8 +19,8 @@ public class sortArrayAsc {
 		list.add("A computer portal");
 
 		// Print the unsorted ArrayList
-		//missing
-
+		System.out.println("Unsorted ArrayList: "+ list);
+                
 		// Sorting ArrayList in ascending Order
 		// using Collection.sort() method
 		Collections.sort(list);
